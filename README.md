@@ -38,7 +38,7 @@ O repositório está dividido em **3 listas de exercícios**, conforme os capít
 |--------:|----------------|------------------------|
 | [**Lista 01**](https://github.com/SrKkxz/POO-2025.2-TIP4/tree/main/Lista-01) | Capítulo 3 | Estrutura Sequencial |
 | [**Lista 02**](https://github.com/SrKkxz/POO-2025.2-TIP4/tree/main/Lista-02) | Capítulos 4 e 5 | Estrutura Condicional e Estrutura de Repetição |
-| [**Lista 03**](https://github.com/SrKkxz/POO-2025.2-TIP4/tree/main/Lista-03) | Capítulos 6 e 8 | Vetor e Sub-rotinas |
+| [**Lista 03**](https://github.com/SrKkxz/POO-2025.2-TIP4/tree/main/Lista-03) | Capítulos 8 | Vetor e Sub-rotinas |
 
 ---
 
